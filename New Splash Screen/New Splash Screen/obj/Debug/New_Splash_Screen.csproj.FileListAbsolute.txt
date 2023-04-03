@@ -1,0 +1,12 @@
+D:\Kagami\MyProjects\C#\New Splash Screen\New Splash Screen\bin\Debug\New Splash Screen.exe.config
+D:\Kagami\MyProjects\C#\New Splash Screen\New Splash Screen\bin\Debug\New Splash Screen.exe
+D:\Kagami\MyProjects\C#\New Splash Screen\New Splash Screen\bin\Debug\New Splash Screen.pdb
+D:\Kagami\MyProjects\C#\New Splash Screen\New Splash Screen\obj\Debug\New_Splash_Screen.csproj.AssemblyReference.cache
+D:\Kagami\MyProjects\C#\New Splash Screen\New Splash Screen\obj\Debug\New_Splash_Screen.csproj.SuggestedBindingRedirects.cache
+D:\Kagami\MyProjects\C#\New Splash Screen\New Splash Screen\obj\Debug\New_Splash_Screen.Form1.resources
+D:\Kagami\MyProjects\C#\New Splash Screen\New Splash Screen\obj\Debug\New_Splash_Screen.Properties.Resources.resources
+D:\Kagami\MyProjects\C#\New Splash Screen\New Splash Screen\obj\Debug\New_Splash_Screen.SplashScreen.resources
+D:\Kagami\MyProjects\C#\New Splash Screen\New Splash Screen\obj\Debug\New_Splash_Screen.csproj.GenerateResource.cache
+D:\Kagami\MyProjects\C#\New Splash Screen\New Splash Screen\obj\Debug\New_Splash_Screen.csproj.CoreCompileInputs.cache
+D:\Kagami\MyProjects\C#\New Splash Screen\New Splash Screen\obj\Debug\New Splash Screen.exe
+D:\Kagami\MyProjects\C#\New Splash Screen\New Splash Screen\obj\Debug\New Splash Screen.pdb
